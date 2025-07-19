@@ -5,7 +5,7 @@ order: 4
 ---
 Ruogu Li is grateful for the encouragement from Ms. Zhang.
 
-Recently:
+**Focus On 🥰**
 1. The difference in the taste of Coca-Cola from different origins🥤.
 2. Classical music and piano 🎹.
 
