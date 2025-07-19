@@ -10,14 +10,14 @@ description: 仅供参考
 
 2. 安装OpenAI的SDK：
 
-```
+```shell
 pip3 install openai
 ```
 
 3. 示例代码：
 
 
-```
+```python
 from openai import OpenAI  
   
 client = OpenAI(api_key="<DeepSeek API Key>", base_url="https://api.deepseek.com")  
