@@ -1,5 +1,5 @@
 ---
-title: Python调用DeepSeek的API
+title: 2025-01-12-Python调用DeepSeek的API
 date:   2025-01-12 12:00:00 +0800
 categories: [Deepseek]
 tags: [deepseek]
