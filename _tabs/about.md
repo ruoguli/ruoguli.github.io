@@ -16,12 +16,11 @@ Recently:
 4. Finally, learn something about the history of science, or at a minimum the history of your own branch of science./读一些科学史。
 
 
-> 闲云潭影日悠悠，物换星移几度秋。阁中帝子今何在？槛外长江空自流。
-{: .prompt-tip }
-
 **Arthur Schopenhauer (1788-1860)**
 1. 生活像是一副摆钟，在痛苦和无聊之间来回摆动。
 
 **MuXin (1927-2011)**
 1. 请向朋友们表达伤忧。
 
+> 闲云潭影日悠悠，物换星移几度秋。阁中帝子今何在？槛外长江空自流。
+{: .prompt-tip }
