@@ -1,5 +1,5 @@
 ---
-title: A simple example of using the ASE program
+title: ASE调用代码解析
 date: 2025-07-21 09:00:00 +0800
 categories:
   - ASE
