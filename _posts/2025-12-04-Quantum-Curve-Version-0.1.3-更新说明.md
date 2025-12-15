@@ -10,8 +10,8 @@ description: 仅供参考
 
 [下载链接🔗](https://github.com/ruoguli/Quantum-Curve)
 
-1. 这个版本中我们支持了[Qbics](http://qbics.info/home/)项目的输入文件/输出文件的基本分子坐标的解析，也支持了对于结构优化过程中的能量变化情况跟踪。
-2. 支持了[Multiwfn](http://sobereva.com/multiwfn/)的.mwfn类文件的载入支持。
+1. 这个版本中我们支持了Qbics项目的输入文件/输出文件的基本分子坐标的解析，也支持了对于结构优化过程中的能量变化情况跟踪。(潜在的错误是播放帧的时候旋转分子可能会出现跳动问题)
+2. 支持了Multiwfn的.mwfn类文件的载入支持。
 3. 支持了VASP的CHGCAR文件的支持。
 4. 支持了电子密度差的计算。仅测试了.fchk/.molden类文件。
 5. 修改了部分渲染功能的实现。
