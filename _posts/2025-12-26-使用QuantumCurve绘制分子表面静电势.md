@@ -12,17 +12,17 @@ description: 仅供参考
 ## 1. 输入文件准备
 你需要载入含有波函数信息的输入文件，以下为支持的文件类型：
 
-> [!INFO]
 > Gaussian产生的.fch或.fchk文件。
+{: .prompt-info }
 
-> [!INFO]
 > ORCA 产生的 .molden 文件（.molden.input 文件也是一样的）。
 > 从 0.1.7 版本开始，支持含有波函数信息的 JSON 文件。
+{: .prompt-info }
 
 ⚠️使用**orca_2mkl**命令可以将.gbw文件转化为.molden.input文件。
 
-> [!INFO]
 > .wfn文件或.multiwfn文件。
+{: .prompt-info }
 
 ## 2. 绘制分子表面静电势
  在本例中我们使用examples/ESP/benzene.molden文件。你可以在上述路径或者github仓库中找到。
@@ -32,16 +32,19 @@ description: 仅供参考
  关闭Electrostatic potential (ESP)界面会显示出分子表面静电势的填色图，下图所示。但是这样的图我们往往无法很好的看到颜色的交界。例如此例中我们很难看到红蓝交界。
 
 
-![benzene_esp_fig_1](/assets/img/posts/qc/esp/benzene_esp_fig_1.png){: .normal width="200" } _Fig. 1. 初次载入后的分子表面静电势图_
+![benzene_esp_fig_1](/assets/img/posts/qc/esp/benzene_esp_fig_1.png){: .normal width="250" }
+_Fig. 1. 初次载入后的分子表面静电势图_{: .mt-2 .d-block .text-center }
 
 
  右键-Results-Surface修改箭头所指的两处数值，此例中我们修改为-15和15。保存后就能看到红蓝交界的填色图。
 
 
-![benzene_esp_fig_2](/assets/img/posts/qc/esp/benzene_esp_fig_2.png){: .normal width="200" } _Fig. 2. 设置渲染表面_
+![benzene_esp_fig_2](/assets/img/posts/qc/esp/benzene_esp_fig_2.png){: .normal width="250" }
+_Fig. 2. 设置渲染表面_{: .mt-2 .d-block .text-center }
 
 
-![benzene_esp_fig_3](/assets/img/posts/qc/esp/benzene_esp_fig_3.png){: .normal width="200" } _Fig. 3. 看起来效果更好的分子表面静电势图_
+![benzene_esp_fig_3](/assets/img/posts/qc/esp/benzene_esp_fig_3.png){: .normal width="250" }
+_Fig. 3. 看起来效果更好的分子表面静电势图_{: .mt-2 .d-block .text-center }
 
 
  如果需要显示局部极大值/极小值同样可以右键-Results-Surface修改。
