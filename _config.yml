@@ -12,8 +12,10 @@ title: Ruogu Li
 
 tagline: Dedicated to Ms. Zhang.
 
-description: >- # used by seo meta and the atom feed
-  Quantum Chemistry; ORCA; QE; CP2K; GROMACS; DFT; AIMD; MD
+description: >-
+  Ruogu Li's Blog: In-depth tutorials and insights on Quantum Chemistry and 
+  Computational Materials Science, featuring ORCA, CP2K, Quantum ESPRESSO, 
+  and MD simulations.
 
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ruoguli.com"
@@ -28,7 +30,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ruogu Li
-  email: ruoguli@ruoguli.cn
+  email: ruoguli96@gmail.com
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
